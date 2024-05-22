@@ -5,3 +5,7 @@
 https://app.qase.io/project/G7?author=217&previewMode=side&suite=191&tab=
 
 PDF-файл выгрузка из QASE с тест-кейсами на основании проверок из чек-листа для регистрации, логина и каталога: https://github.com/ottersgottaott/docs/blob/main/Testing%20documentation%20-%20Kristina%20Ovcharova.pdf
+
+Отчеты о дефектах из Youtrack: https://github.com/ottersgottaott/docs/blob/main/Issues%20-%20Kristina%20Ovcharova.xlsx
+
+Результаты тестового прогона из QASE: https://github.com/ottersgottaott/docs/blob/main/G7-Express%2Brun%2B2024_05_21%20(1)-merged.pdf
